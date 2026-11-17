@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-## NAME:MANOJ KUMAR N
+## NAME: MANOJ KUMAR N
 ## REGISTER NUMBER : 212225230168
 
 
